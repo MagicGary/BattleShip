@@ -1,1 +1,0 @@
-run Game.java.main
